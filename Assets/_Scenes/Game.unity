@@ -213,7 +213,7 @@ MonoBehaviour:
   - {fileID: 1417491233}
   - {fileID: 1033112261}
   - {fileID: 1943650245}
-  timeLimit: 75
+  timeLimit: 1800
   stopwatchDisplay: {fileID: 1879252250}
   isGameOver: 0
   choosingUpgrade: 0
