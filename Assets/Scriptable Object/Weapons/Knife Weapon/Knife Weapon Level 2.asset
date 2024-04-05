@@ -10,10 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 65db25b123af66741b2f1d0b0a6c378f, type: 3}
-  m_Name: Fire Aura Weapon
+  m_Name: Knife Weapon Level 2
   m_EditorClassIdentifier: 
-  prefab: {fileID: 7399517896927558048, guid: 5b1e9011589ea3344bcc830e7b48a28c, type: 3}
+  prefab: {fileID: 7806548367491435092, guid: d529e2cf243908e48b8c7d4da5c37150, type: 3}
   damage: 5
-  speed: 0
-  cooldownDuration: 3
-  pierce: 0
+  speed: 15
+  cooldownDuration: 2
+  pierce: 1
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  name: Knife Level 2
+  description: Projectile speed increased by 5
+  icon: {fileID: -939708841, guid: 09824ad0119e8a947a51db453fbd17b2, type: 3}

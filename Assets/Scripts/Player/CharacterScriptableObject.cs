@@ -6,6 +6,13 @@ using UnityEngine;
 public class CharacterScriptableObject : ScriptableObject
 {
     [SerializeField]
+    Sprite icon;
+    public Sprite Icon { get => icon; private set => icon = value; }
+    [SerializeField]
+    new string name;
+    public string Name { get => name; private set => name = value; }
+
+    [SerializeField]
     GameObject startingWeapon;
 
     public GameObject StartingWeapon { get => startingWeapon; private set => startingWeapon = value; }
@@ -34,6 +41,10 @@ public class CharacterScriptableObject : ScriptableObject
     float projectileSpeed;
 
     public float ProjectileSpeed { get => projectileSpeed; private set => projectileSpeed = value; }
+
+    [SerializeField]
+    float magnet;
+    public float Magnet { get => magnet; private set => magnet = value; }
 
 }
 

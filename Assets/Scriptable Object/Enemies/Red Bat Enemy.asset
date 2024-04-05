@@ -9,11 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 65db25b123af66741b2f1d0b0a6c378f, type: 3}
-  m_Name: Knife Weapon
+  m_Script: {fileID: 11500000, guid: 870b80ee42d5be448af4d28a454e76e9, type: 3}
+  m_Name: Red Bat Enemy
   m_EditorClassIdentifier: 
-  prefab: {fileID: 7806548367491435092, guid: 8b8e7fa239fe5ef46aed79143764e32a, type: 3}
-  damage: 5
-  speed: 10
-  cooldownDuration: 2
-  pierce: 1
+  moveSpeed: 3
+  maxHealth: 10
+  damage: 15
