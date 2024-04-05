@@ -24,7 +24,7 @@ public class FireAuraBehavior : MeleeWeaponBehavior
         {
             if (col.gameObject.TryGetComponent(out BreakableProps breakable) && !markedEnemies.Contains(col.gameObject))
             {
-                breakable.TakeDamage(currentDamage);
+                breakable.TakeDamage(GetCurrentDamage());
 
                 markedEnemies.Add(col.gameObject);
             }

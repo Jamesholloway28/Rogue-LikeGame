@@ -183,6 +183,7 @@ MonoBehaviour:
   currentMoveSpeed: 0
   currentHealth: 0
   currentDamage: 0
+  despawnDistance: 20
 --- !u!114 &1989929293052859181
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -198,4 +199,4 @@ MonoBehaviour:
   drops:
   - name: Blue gem
     itemPrefab: {fileID: 9166314969567879411, guid: ab987a0179e101945920c85e1d17b5f8, type: 3}
-    dropRate: 50
+    dropRate: 100

@@ -10,7 +10,7 @@ public class NewBehaviourScript : MonoBehaviour
     public float pullSpeed;
 
     void Update() {
-        playerCollector.radius = player.currentMagnet;
+        playerCollector.radius = player.CurrentMagnet;
     }
 
     void Start() {
