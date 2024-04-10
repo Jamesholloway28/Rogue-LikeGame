@@ -196,7 +196,7 @@ public static GameManager instance;
         UpdateStopwatchDisplay();
 
         if (stopwatchTime >= timeLimit) {
-            GameOver();
+            playerObject.SendMessage("Kill");
         }
     }
 

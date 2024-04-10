@@ -3028,7 +3028,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Menu
+          m_StringArgument: TitleScreen
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &706184864
@@ -8029,7 +8029,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.56, y: 1.16}
+    oldSize: {x: 0.84, y: 1.4}
     newSize: {x: 0.56, y: 1.16}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -8106,7 +8106,7 @@ SpriteRenderer:
   m_SortingLayerID: -1047017343
   m_SortingLayer: 3
   m_SortingOrder: 20
-  m_Sprite: {fileID: 2120804444, guid: 19c69ab0c142f154bbfa213f67c139e0, type: 3}
+  m_Sprite: {fileID: -1763434964, guid: b3807e9b3cbdfde489ba4bd22a645ba7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -8156,7 +8156,7 @@ Animator:
   m_GameObject: {fileID: 1589289480}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 928806c7d5fccdd4a9a33ec35aa023ca, type: 2}
+  m_Controller: {fileID: 9100000, guid: da0fc79ed8d3e4e48b598a23d6c36f6d, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -10204,7 +10204,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Menu
+          m_StringArgument: TitleScreen
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2095325009

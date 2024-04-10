@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 622f021be33a3754797a84cacd425a6d, type: 3}
   m_Name: Fire Aura Character
   m_EditorClassIdentifier: 
-  icon: {fileID: 2120804444, guid: 19c69ab0c142f154bbfa213f67c139e0, type: 3}
+  icon: {fileID: -1763434964, guid: b3807e9b3cbdfde489ba4bd22a645ba7, type: 3}
   name: Fire Aura Character
   startingWeapon: {fileID: 8947085118156021345, guid: b543be58ae1570d489779be77be118fe, type: 3}
   maxHealth: 100
