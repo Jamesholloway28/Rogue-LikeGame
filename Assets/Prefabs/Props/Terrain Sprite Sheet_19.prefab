@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1566846435349130506}
   m_Layer: 0
   m_Name: Terrain Sprite Sheet_19
-  m_TagString: Props
+  m_TagString: Prop
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 246ea5be4593f774cb41f69df5c62e6b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 100
+  health: 50
 --- !u!114 &1566846435349130506
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1535226737201530633}
   m_Layer: 0
   m_Name: Terrain Sprite Sheet_14
-  m_TagString: Props
+  m_TagString: Prop
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
